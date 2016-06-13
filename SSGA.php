@@ -3,6 +3,8 @@
  * Simple Server Side Analytics
  *
  */
+namespace SSGA;
+
 
 class SSGA {
 	const GA_URL = 'https://stats.g.doubleclick.net/__utm.gif'; //@nczz update v5.6.4dc
